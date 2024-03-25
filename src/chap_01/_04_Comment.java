@@ -9,7 +9,5 @@ public class _04_Comment {
         int size = 120;
         size = size + 10; // children grow so fast
         System.out.println("Please show me the " + size + " mm ok?");
-
-
     }
 }
